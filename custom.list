@@ -1,0 +1,2 @@
+RULE-SET,https://raw.githubusercontent.com/BlackHole1/dler-surge-rules/main/proxy.list,Proxy
+RULE-SET,https://raw.githubusercontent.com/BlackHole1/dler-surge-rules/main/direct.list,DIRECT
