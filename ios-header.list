@@ -1,0 +1,7 @@
+all-hybrid = true
+allow-wifi-access = false
+allow-hotspot-access = true
+wifi-assist = false
+http-api-web-dashboard = false
+external-controller-access= pwd@127.0.0.1:6170
+loglevel = warning
