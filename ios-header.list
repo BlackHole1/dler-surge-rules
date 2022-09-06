@@ -1,3 +1,4 @@
+[General]
 all-hybrid = true
 allow-wifi-access = false
 allow-hotspot-access = true
