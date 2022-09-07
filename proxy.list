@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,npmjs.org
