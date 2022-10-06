@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,b-ok.asia
 DOMAIN-SUFFIX,booksc.org
 DOMAIN-SUFFIX,singlelogin.app
 DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,setapp.com
+PROCESS-NAME,/Applications/Setapp.app/Contents/MacOS/Setapp
