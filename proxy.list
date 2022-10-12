@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,singlelogin.app
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,bugs.cc
 PROCESS-NAME,/Applications/Setapp.app/Contents/MacOS/Setapp
+DOAMIN-SUFFIX,gstatic.com
+DOAMIN-SUFFIX,googletagmanager.com
